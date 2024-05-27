@@ -1,0 +1,20 @@
+{
+  "name": "ejercitaciongetronics",
+  "version": "1.0.0",
+  "description": "Ejercitacion para Getronics",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+    
+  },
+
+  "author": "Santiago Verdun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santyazr/Getronics/issues"
+  },
+  "homepage": "https://github.com/Santyazr/Getronics#readme",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
